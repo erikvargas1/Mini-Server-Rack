@@ -15,7 +15,32 @@ My mindset behind choosing this equipment was based on a few core principles:
 - Real-world relevance – Hardware and software that reflect enterprise concepts
 
 
+## Server Rack Equipment
 
+<details>
+
+**Compute nodes** 
+
+Lenovo ThinkCentre M920q | Intel Core i5-8500T | 16GB RAM | 500GB NVMe SSD
+Lenovo ThinkCentre M920q Tiny PCIe x16 Riser Card
+iPolex Dual-Port Gigabit NIC Intel I350-AM2 Controller Dual RJ45 Ports PCIe 2.1 x4
+
+HP EliteDesk 800 G4 | Intel Core i5-8500T | 16GB RAM | 250GB NVMe SSD
+
+----
+
+**Switching & Wireless**
+- Ubiquiti UniFi Switch Lite 8-Port Gigabit Switch with 4 PoE+
+- Ubiquiti U6+ Wireless Access Point Dual-band Wi-Fi 6 (802.11ax)
+
+---
+
+**Server Rack**
+- GeeekPi 8U Server Cabinet, 10 inch Server Rack
+- GeeekPi 12 Port Patch Panel, 10inch 0.5U CAT6 Network Patch Panel
+- GeeekPi 1U Server Rack Shelf,
+
+</details>
 
 ## Tools & Technologies
 
