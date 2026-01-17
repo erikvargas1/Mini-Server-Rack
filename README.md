@@ -1,9 +1,9 @@
 ## DeskPi-Server-Rack
 
-
 ![homerack](https://github.com/user-attachments/assets/f59f7bee-c839-48b2-ba6a-872ffb86c3ae)
 
-> This mini server rack proves that building a serious networking lab doesn’t require a full-size server cabinet or power-hungry equipment. With everyday home computers, you can create an efficient, quiet, and highly educational homelab in a small footprint.
+----
+
 
 ## Design Philosophy
 
@@ -13,16 +13,23 @@ My mindset behind choosing this equipment was based on a few core principles:
 - Low heat & noise – No screaming fans or excessive cooling requirements
 - Real-world relevance – Hardware and software that reflect enterprise concepts
 
+----
+
+## Tools & Technologies
+- PiHole for DNS filterning
+- 
+
+
+
+----
 
 ## Server Rack Equipment
-
-<details>
 
 **Compute nodes** 
 
 Lenovo ThinkCentre M920q | Intel Core i5-8500T | 16GB RAM | 500GB NVMe SSD
-Lenovo ThinkCentre M920q Tiny PCIe x16 Riser Card
-iPolex Dual-Port Gigabit NIC Intel I350-AM2 Controller Dual RJ45 Ports PCIe 2.1 x4
+- PCIe x16 Riser Card
+- iPolex Dual-Port Gigabit NIC Intel I350-AM2 Controller PCIe 2.1 x4
 
 HP EliteDesk 800 G4 | Intel Core i5-8500T | 16GB RAM | 250GB NVMe SSD
 
@@ -37,11 +44,10 @@ HP EliteDesk 800 G4 | Intel Core i5-8500T | 16GB RAM | 250GB NVMe SSD
 **Server Rack**
 - GeeekPi 8U Server Cabinet, 10 inch Server Rack
 - GeeekPi 12 Port Patch Panel, 10inch 0.5U CAT6 Network Patch Panel
-- GeeekPi 1U Server Rack Shelf,
+- GeeekPi 1U Server Rack Shelf
 
-</details>
+-----
 
-## Tools & Technologies
 
 
 
